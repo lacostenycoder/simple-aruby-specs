@@ -1,5 +1,6 @@
 require "bundler/setup"
 require "aruba/getting/started"
+require 'aruba/rspec'
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
